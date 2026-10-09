@@ -1,0 +1,44 @@
+{
+  "gordin": {
+    "nome": "gordin",
+    "avatar": "/uploads/1790896464811-6mqhda6d.jpeg",
+    "banner": "/uploads/1790896452010-1hjur4rz.jpeg",
+    "bio": "good",
+    "cor": "#faa81a"
+  },
+  "pc": {
+    "nome": "pc",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=pc",
+    "banner": null,
+    "bio": "",
+    "cor": "#faa81a"
+  },
+  "Celular": {
+    "nome": "Celular",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Celular",
+    "banner": null,
+    "bio": "",
+    "cor": "#e91e63"
+  },
+  "king": {
+    "nome": "king",
+    "avatar": "/uploads/1790868912539-x4t6nu43.png",
+    "banner": null,
+    "bio": "",
+    "cor": "#e91e63"
+  },
+  "silva": {
+    "nome": "silva",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=silva",
+    "banner": null,
+    "bio": "",
+    "cor": "#3ba55c"
+  },
+  "godin": {
+    "nome": "godin",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=godin",
+    "banner": null,
+    "bio": "",
+    "cor": "#ffffff"
+  }
+}
